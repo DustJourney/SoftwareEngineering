@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>D:/project/SE_lab/LAB3_2/src</OriginalElement>
+  <nodes>
+    <node x="453.93449311229665" y="142.34465672392497">CurrentAccount</node>
+    <node x="409.56309150627135" y="-186.09363692367492">Bank</node>
+    <node x="105.72929553185699" y="-200.381728608684">BankAccount</node>
+    <node x="-174.14459632951304" y="121.3052807330269">Main</node>
+    <node x="43.71097945605058" y="261.652369917704">JuniorAccount</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="分层" zoom="1.0" showDependencies="false" x="547.0" y="83.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>字段</Category>
+    <Category>方法</Category>
+    <Category>构造函数</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
